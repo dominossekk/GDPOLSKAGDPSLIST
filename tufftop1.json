@@ -1,0 +1,18 @@
+{
+    "id": 13112025,
+    "name": "tuff top 1",
+    "author": "domi",
+    "creators": ["yuno", "yuki, "akise"],
+    "verifier": "Verifier",
+    "verification": "link",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Test",
+            "link": "link",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
